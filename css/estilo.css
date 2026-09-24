@@ -1,0 +1,10 @@
+body {
+    background-color: #f8f9fa;
+}
+#parDatos {
+    white-space: pre-line;
+    font-weight: 500;
+}
+#sec-estilos {
+    transition: background-color 0.3s ease;
+}
